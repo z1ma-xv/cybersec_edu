@@ -1,4 +1,4 @@
-# cybersec_edu
+# CYBERSEC_EDU
 overall tips of cybersec education
 
 It is my private tips/notes about cybersec

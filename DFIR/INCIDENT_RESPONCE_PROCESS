@@ -1,11 +1,18 @@
 # INCIDENT RESPONSE PROCESS
+===========================
 
 PREPARATION					( Подготовка )
+-----------
 DETECTION 					( Обнаружение )
+---------
 ANALYSIS 					( Анализ )
+--------
 CONTAINMENT					( Сдерживание )
+-----------
 ERADICATION and RECOVERY	( Очистка и Восстановление )
+------------------------
 POST INCIDENT ACTIVITY		( Действия после инцидента )
+----------------------
 
 1. Подготовка
 
